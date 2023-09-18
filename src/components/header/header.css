@@ -15,3 +15,11 @@ header h1, header h2 {
     margin: 0;
 }
 
+header h1 {
+    color: #ee7272;
+}
+
+header h2 {
+    color: #918bd6;
+}
+
